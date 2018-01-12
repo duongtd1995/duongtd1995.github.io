@@ -140,7 +140,7 @@ ul.agileits-address-text li a {
     color:#c5c2c2;
     font-size: 1em;
     line-height: 1.8em;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
 }
 ul.agileits-address-text li span {
     margin: 0.2em;
@@ -1302,7 +1302,7 @@ h4.modal-title {
 }
 @media(max-width:1080px){
 	.w3-banner-text p {
-    width: 67%;
+    width: 60%;
 	}
 	.w3-about-grid-right1 {
     margin: 0em 0;
