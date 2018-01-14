@@ -1103,7 +1103,7 @@ h4.modal-title {
  .contact{
 	   background: url(../images/c2.jpg) no-repeat 0px 0px;
     background-size: cover;
-	min-height:500px;
+	height:300px;
 
  }
 .contact-left.agileits-w3layouts {
